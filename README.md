@@ -1,2 +1,9 @@
 # Medientechnik_Projekt
-Geiler Boxkampf oder so
+
+## Team
+
++ Stefan Fellner
+
++ David Banu
+
++ Jakob Minichberger (Da Hund mocht goa nix)
