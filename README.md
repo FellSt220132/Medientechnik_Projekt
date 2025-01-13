@@ -6,4 +6,4 @@
 
 + David Banu
 
-+ Jakob Minichberger (Da Hund mocht goa nix)
++ Jakob Minichburger
